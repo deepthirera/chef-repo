@@ -1,0 +1,13 @@
+{
+"normal": {
+   },
+   "name": "foobar",
+   "override": {
+   },
+   "default": {
+   },
+   "json_class": "Chef::Node",
+   "automatic": {
+   },
+ "chef_type": "node"
+}
